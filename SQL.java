@@ -14,7 +14,7 @@ public class MySQLExample {
             // Connect to the database
             String url = "jdbc:mysql://localhost:3306/your_database";
             String user = "saikanth";
-            String password = "*******";
+            String password = "";
             Connection connection = DriverManager.getConnection(url, user, password);
 
             // Perform database operations
