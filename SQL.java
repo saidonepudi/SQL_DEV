@@ -13,8 +13,8 @@ public class MySQLExample {
 
             // Connect to the database
             String url = "jdbc:mysql://localhost:3306/your_database";
-            String user = "your_username";
-            String password = "your_password";
+            String user = "saikanth";
+            String password = "Kusianu@143";
             Connection connection = DriverManager.getConnection(url, user, password);
 
             // Perform database operations
